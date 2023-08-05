@@ -1,3 +1,2 @@
-
-#!/bin/bash
-rm -rf /tmp/my_first_directory/
+#!/bini/bash
+rm -rf /etmp/my_first_directory
